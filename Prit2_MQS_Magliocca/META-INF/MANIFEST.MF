@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Prit2_MQS_Magliocca
+Bundle-SymbolicName: Prit2_MQS_Magliocca
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Prit2.MQS.Magliocca
+Bundle-RequiredExecutionEnvironment: JavaSE-18
